@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.mule.examples/basic-auth-securityscheme/1.0.0"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/70e4b738-30d5-4a39-9f7a-65ed684659f4/super-biodata-sapi/1.0.0"/>
 	<classpathentry kind="con" path="org.mule.tooling.MULE_PROJECT_LIB"/>
 	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/bfb5a8a4-30ed-47b8-88c8-5764a308838e/super-biodata-sapi/1.0.0"/>
 	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/c738e3c8-08cf-462d-bb9a-1553ebf5008e/super-biodata-sapi/1.0.1"/>
